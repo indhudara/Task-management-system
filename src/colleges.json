@@ -1,0 +1,65 @@
+[
+{
+"name": "ABC Engineering College",
+"location": "Hyderabad",
+"course": "Computer Science",
+"fee": 120000
+},
+{
+"name": "XYZ Institute of Technology",
+"location": "Bangalore",
+"course": "Electronics",
+"fee": 100000
+},
+{
+"name": "Sunrise Business School",
+"location": "Chennai",
+"course": "MBA",
+"fee": 150000
+},
+{
+"name": "Greenfield Medical College",
+"location": "Hyderabad",
+"course": "MBBS",
+
+"fee": 250000
+},
+{
+"name": "National Institute of Design",
+"location": "Pune",
+"course": "Design",
+"fee": 130000
+},
+{
+"name": "Tech Valley Engineering",
+"location": "Vizag",
+"course": "Mechanical",
+"fee": 110000
+},
+
+{
+"name": "Lakeside Arts College",
+"location": "Chennai",
+"course": "Fine Arts",
+"fee": 80000
+},
+{
+"name": "Royal Law University",
+"location": "Delhi",
+"course": "Law",
+"fee": 140000
+},
+{
+"name": "City Polytechnic Institute",
+"location": "Mumbai",
+"course": "Diploma",
+"fee": 60000
+},
+{
+"name": "Bright Future College of Education",
+"location": "Pune",
+"course": "B.Ed",
+"fee": 70000
+}
+
+]
